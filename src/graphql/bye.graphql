@@ -1,0 +1,4 @@
+# This query is a mutation test that only logined user can access
+query Bye {
+  bye
+}
